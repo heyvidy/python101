@@ -1,5 +1,16 @@
 # Python101
 
-Resources for Python Beginners
+###Resources for Python Beginners
 
-This list was put together for attendees of the **Python101** Workshop organised as a part of [PythonExpress](https://pythonexpress.in/) initiative. 
+If you're can follow an online tutorial, 
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) by Zed Shaw.
+
+If you're a book person, 
+- [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf) by Swaroop C H
+- [Python Tutorial](https://docs.python.org/2/download.html) by Guido van Rossum
+
+If you like learning from videos, 
+- [The NewBoston Python Tutorial](https://thenewboston.com/videos.php?cat=36)
+
+
+This list was put together for attendees of the **Python101 Workshop** organised as a part of [PythonExpress](https://pythonexpress.in/) initiative. 
