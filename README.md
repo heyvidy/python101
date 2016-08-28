@@ -2,7 +2,7 @@
 
 ###Resources for Python Beginners
 
-If you're can follow an online tutorial, 
+If you can follow through an online tutorial, 
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) by Zed Shaw.
 
 If you're a book person, 
