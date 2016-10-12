@@ -11,6 +11,7 @@ If you're a book person,
 
 If you like learning from videos, 
 - [The NewBoston Python Tutorial](https://thenewboston.com/videos.php?cat=36)
+- [Let's Learn Python: Basics](https://www.youtube.com/playlist?list=PL82YdDfxhWsDJTq5f0Ae7M7yGcA26wevJ) by Trevor Payne
 
 
 This list was put together for attendees of the **Python101 Workshop** organised as a part of [PythonExpress](https://pythonexpress.in/) initiative. 
