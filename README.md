@@ -1,6 +1,6 @@
 # Python101
 
-###Resources for Python Beginners
+###Resources for beginners in Python Programming.
 
 If you can follow through an online tutorial, 
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) by Zed Shaw.
