@@ -14,4 +14,4 @@ If you like learning from videos,
 - [Let's Learn Python: Basics](https://www.youtube.com/playlist?list=PL82YdDfxhWsDJTq5f0Ae7M7yGcA26wevJ) by Trevor Payne
 
 
-This list was put together for attendees of the **Python101 Workshop** organised as a part of [PythonExpress](https://pythonexpress.in/) initiative. 
+This list was put together for attendees of the **Python101 Workshop**.
